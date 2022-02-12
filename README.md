@@ -13,7 +13,7 @@
 i used a web utility to make this for me
 this is because i am lazy
 
-font is georgia 11 on https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
+font is georgia 11 on http://patorjk.com/software/taag/
 
 nothing to see here!
 ```
